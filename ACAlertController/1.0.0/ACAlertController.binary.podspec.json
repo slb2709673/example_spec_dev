@@ -1,0 +1,22 @@
+{
+  "name": "ACAlertController",
+  "version": "1.0.0",
+  "summary": "At iOS 8.0 later, we use UIAlertController, it's not friendly, so we  replace it with ACAlertController.",
+  "homepage": "https://github.com/honeycao/ACAlertController",
+  "license": "MIT",
+  "authors": {
+    "ArthurCao": "honeycao9268@163.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "http": "http://localhost:8080/frameworks/ACAlertController/1.0.0/zip",
+    "type": "zip"
+  },
+  "source_files": "ACAlertController/**/*.{h,m}",
+  "frameworks": "UIKit",
+  "requires_arc": true,
+  "vendored_frameworks": "ACAlertController.framework",
+  "description": "「   converted automatically by plugin cocoapods-imy-bin @厦门美柚 - slj    」"
+}
