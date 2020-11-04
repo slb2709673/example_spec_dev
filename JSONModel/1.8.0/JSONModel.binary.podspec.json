@@ -1,0 +1,25 @@
+{
+  "name": "JSONModel",
+  "version": "1.8.0",
+  "summary": "Magical Data Modelling Framework for JSON. Create rapidly powerful, atomic and smart data model classes.",
+  "homepage": "http://www.jsonmodel.com",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Marin Todorov": "touch-code-magazine@underplot.com"
+  },
+  "source": {
+    "http": "http://localhost:8080/frameworks/JSONModel/1.8.0/zip",
+    "type": "zip"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source_files": "JSONModel/**/*.{m,h}",
+  "public_header_files": "JSONModel/**/*.h",
+  "requires_arc": true,
+  "vendored_frameworks": "JSONModel.framework",
+  "description": "「   converted automatically by plugin cocoapods-imy-bin @厦门美柚 - slj    」"
+}
