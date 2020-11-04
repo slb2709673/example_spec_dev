@@ -1,0 +1,30 @@
+{
+  "name": "SVProgressHUD",
+  "version": "2.2.5",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "summary": "A clean and lightweight progress HUD for your iOS and tvOS app.",
+  "homepage": "https://github.com/SVProgressHUD/SVProgressHUD",
+  "authors": {
+    "Sam Vermette": "hello@samvermette.com",
+    "Tobias Tiemerding": "tobias@tiemerding.com"
+  },
+  "source": {
+    "http": "http://localhost:8080/frameworks/SVProgressHUD/2.2.5/zip",
+    "type": "zip"
+  },
+  "description": "「   converted automatically by plugin cocoapods-imy-bin @厦门美柚 - slj    」\n SVProgressHUD is a clean and easy-to-use HUD meant to display the progress of an ongoing task on iOS and tvOS. The success and error icons are from Freepik from Flaticon and are licensed under Creative Commons BY 3.0.",
+  "source_files": "SVProgressHUD/*.{h,m}",
+  "frameworks": "QuartzCore",
+  "resources": [
+    "SVProgressHUD.framework/Resources/SVProgressHUD.bundle",
+    "SVProgressHUD.framework/Versions/A/Resources/SVProgressHUD.bundle"
+  ],
+  "requires_arc": true,
+  "vendored_frameworks": "SVProgressHUD.framework"
+}
