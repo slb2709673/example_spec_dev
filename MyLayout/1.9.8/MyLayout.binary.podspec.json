@@ -1,0 +1,23 @@
+{
+  "name": "MyLayout",
+  "version": "1.9.8",
+  "summary": "MyLayout is an iOS UI framework integrates the functions with Android,AutoLayout,SizeClass,HTML CSS float and flexbox,UIView UITableView.",
+  "description": "「   converted automatically by plugin cocoapods-imy-bin @厦门美柚 - slj    」\n          MyLayout is a simple and easy objective-c framework for iOS view layout. \nIt provides some simple method to build a variety of complex interface. It integrates the functions including: Autolayout and SizeClass of iOS, five layout classes of Android, float and flex-box and bootstrap of HTML/CSS.",
+  "homepage": "https://github.com/youngsoft/MyLinearLayout",
+  "screenshots": "http://upload-images.jianshu.io/upload_images/1432482-3bfd0855a51b6d8e.gif?imageMogr2/auto-orient/strip",
+  "license": "MIT",
+  "authors": {
+    "欧阳大哥": "obq0387_cn@sina.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "http": "http://localhost:8080/frameworks/MyLayout/1.9.8/zip",
+    "type": "zip"
+  },
+  "source_files": "MyLayout/Lib/*.{h,m}",
+  "public_header_files": "MyLayout/Lib/*.h",
+  "private_header_files": "MyLayout/Lib/{*Inner.h,MyLayoutDelegate.h,MyLayoutMath.h,MyGridNode.h,MyLayoutSizeClass.h}",
+  "vendored_frameworks": "MyLayout.framework"
+}
